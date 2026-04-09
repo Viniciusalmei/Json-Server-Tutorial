@@ -1,0 +1,69 @@
+{
+  "tasks": [
+    {
+      "id": "17",
+      "title": "asd3"
+    },
+    {
+      "id": "18",
+      "title": "Revisar anotações da aula"
+    },
+    {
+      "id": "19",
+      "title": "Praticar exercícios de código"
+    },
+    {
+      "id": "20",
+      "title": "Organizar arquivos do projeto"
+    },
+    {
+      "title": "asdasd",
+      "id": "K6j4dV_wiQo"
+    },
+    {
+      "title": "123",
+      "id": "Pq8HJIV71ZY"
+    },
+    {
+      "title": "2",
+      "id": "Jmha7mNDZI4"
+    },
+    {
+      "title": "3",
+      "id": "2IST55-d2ZA"
+    },
+    {
+      "title": "12",
+      "id": "c-84KZ8h_wU"
+    },
+    {
+      "title": "15",
+      "id": "4wnsN612Bcg"
+    },
+    {
+      "title": "16",
+      "id": "LNs86XA2aOg"
+    },
+    {
+      "title": "1231o2i3o",
+      "id": "nsD0lvdjEyE"
+    },
+    {
+      "title": "aba",
+      "id": "_IdsRKmy31o"
+    },
+    {
+      "title": "ASdasdasdasdasd",
+      "id": "5dakgEfr-aU"
+    },
+    {
+      "title": "a",
+      "id": "8HU3M8qvRs8"
+    },
+    {
+      "title": "gb1",
+      "id": "xM9vSP2-51I"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
